@@ -351,9 +351,9 @@ Ajuste conforme a política de compartilhamento da sua instituição.
 
 ## 🖥️ Uso de IA Generativa
 
-Esse projeto utilizou o modelo **Claude Opus** como forma de suporte técnico complementar na elaboração e documentação do código desenvolvido, onde a IA foi explorada para pesquisar funções e bibliotecas que melhor correspondessem às propostas teóricas deste projeto, gerando ainda comentários explicativos que facilitam a leitura, compreensão e manutenção do código.
+Esse projeto utilizou os modelos **GPT 5.2 e Claude Opus** como forma de suporte técnico complementar na elaboração e documentação do código desenvolvido, onde a IA foi explorada para pesquisar funções e bibliotecas que melhor correspondessem às propostas teóricas deste projeto, gerando ainda comentários explicativos que facilitam a leitura, compreensão e manutenção do código.
 
-Nota: Toda a idealização conceitual da pesquisa, fundamentação teórica e análise crítica dos resultados foram concebidos pela autora em colaboração com o Dr. William Cossich, meteorologista e analista de sistemas e modelos, e sob a orientação dos professores responsáveis pelo curso realizado (Fundamentos de Ciências de Dados - 2026.1): Prof. Sergio Serra e Prof. Jorge Zavaleta.
+Nota: Toda a idealização conceitual da pesquisa, fundamentação teórica e análise crítica dos resultados foram concebidos pela autora em colaboração com o Dr. William Cossich, meteorologista e analista de metodologias e modelos, e sob a orientação dos professores responsáveis pelo curso realizado (Fundamentos de Ciências de Dados - 2026.1): Prof. Sergio Serra e Prof. Jorge Zavaleta.
 
 ---
 
