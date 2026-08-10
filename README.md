@@ -6,8 +6,8 @@ Ferramenta de código aberto, escrita em **Python**, para o **cálculo**, a **va
 El Niño–Oscilação Sul (ENOS).
 
 O projeto foi concebido com foco em **rastreabilidade** e **reprodutibilidade**, alinhado
-aos princípios **FAIR** (*Findable, Accessible, Interoperable, Reusable*) e aos "4R's" da
-ciência de dados (reprodutibilidade, replicabilidade, reutilização e rastreabilidade/robustez).
+aos princípios **FAIR** (*Findable, Accessible, Interoperable, Reusable*) e aos "5R's" da
+ciência de dados (Repetibilidade, Replicabilidade, Reprodutibilidade, Robustez/Rastreabilidade e Reutilização).
 Toda a configuração fica no **início de cada script** (*config-driven workflow*), o que
 favorece experimentos controlados de sensibilidade metodológica.
 
@@ -346,6 +346,14 @@ Se utilizar esta ferramenta, cite:
 
 Sugestão: **MIT License** (adicione um arquivo `LICENSE` ao repositório).
 Ajuste conforme a política de compartilhamento da sua instituição.
+
+---
+
+## 🖥️ Uso de IA Generativa
+
+Esse projeto utilizou o modelo **Claude Opus** como forma de suporte técnico complementar na elaboração e documentação do código desenvolvido, onde a IA foi explorada para pesquisar funções e bibliotecas que melhor correspondessem às propostas teóricas deste projeto, gerando ainda comentários explicativos que facilitam a leitura, compreensão e manutenção do código.
+
+Nota: Toda a idealização conceitual da pesquisa, fundamentação teórica e análise crítica dos resultados foram concebidos pela autora em colaboração com o Dr. William Cossich, meteorologista e analista de sistemas e modelos, e sob a orientação dos professores responsáveis pelo curso realizado (Fundamentos de Ciências de Dados - 2026.1): Prof. Sergio Serra e Prof. Jorge Zavaleta.
 
 ---
 
